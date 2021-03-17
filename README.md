@@ -1,6 +1,6 @@
 # Exploração de dados
 
-Alguns cadernos de python que eu posso um dia voltar a usar. Quem sabe? provavelmente não.
+Alguns cadernos de python que eu posso um dia voltar a usar. Quem sabe? Provavelmente não.
 
 ![Retomada, Laerte](https://pbs.twimg.com/media/EwOsmqrWYA0wuKV?format=jpg&name=small)
 
