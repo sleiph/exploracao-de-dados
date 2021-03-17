@@ -1,6 +1,8 @@
 # Exploração de dados
 
-Alguns cadernos de python que eu posso um dia voltar a usar.
+Alguns cadernos de python que eu posso um dia voltar a usar. Quem sabe? provavelmente não.
+
+![Retomada, Laerte](https://pbs.twimg.com/media/EwOsmqrWYA0wuKV?format=jpg&name=small)
 
 ### Distribuicao de frequências
 Cria uma tabela de distribuição de frequências com base em um array de dados, criado no notebook de python da Google pra aula de estatísticas.
