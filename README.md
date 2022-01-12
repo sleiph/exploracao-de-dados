@@ -22,3 +22,8 @@ Notebook do Colab pra analisar diferentes fundos de investimento da BOVESPA, par
 
 ### Taxa de juros - Selic
 Taxa de juros que representa a taxa média ajustada das operações compromissadas com prazo de um dia útil lastreadas com títulos públicos federais custodiados no Sistema Especial de Liquidação e de Custódia (Selic). Divulgação em % a.d. [Fonte dos dados](https://dados.gov.br/dataset/11-taxa-de-juros-selic)
+
+## Scripts
+
+### Wordle
+Script criado pra que eu possa roubar no [Wordle](https://www.powerlanguage.co.uk/wordle/), aquele joguinho de acertar a palavra do dia que o Twitter não consegue esquecer. Tá bem mal feito e pouco intuitivo, mas acho que é isso que alguém que quer roubar no Wordle merece mesmo.
